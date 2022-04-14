@@ -1,8 +1,8 @@
-# Digital Load Test 
+#  Load Test 
 
 ## 1.Descrição
 
-O **_Digital_load Test_** é um projeto que faz parte da Plataforma Temis. Ele surgiu devido à necessidade de fazer validações com Testes De Performance.
+O **_load Test_** Surgiu devido à necessidade de fazer validações com Testes De Performance.
 
 
 ## 2.Preparação para Desenvolvimento
